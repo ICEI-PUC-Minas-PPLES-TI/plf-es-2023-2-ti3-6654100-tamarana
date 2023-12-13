@@ -9,8 +9,11 @@
 - Gerenciamento de usuários
 - Gerenciamento de produtos
 - Gerenciamento de animais
+- Gerenciamento de pedidos de compra
+- Visualização de histórico de vendas
 - Visualização de produtos
 - Criação de pedido de compra
+- Agendamento de visitas
 
 ## 👥 Alunos integrantes da equipe
 
@@ -33,8 +36,5 @@
 * Acesse http://localhost:8080
 * Para acessar a página de administradores, acesse http://localhost:8080/admin
 
-## Instruções de utilização - na web
-* Acesse https://tis3-site.azurewebsites.net/
-* Para acessar a página de administradores, https://tis3-site.azurewebsites.net/admin
   
 
