@@ -10,6 +10,7 @@
 - Gerenciamento de produtos
 - Gerenciamento de animais
 - Gerenciamento de pedidos de compra
+- Gerenciamento de visitas agendadas
 - Visualização de histórico de vendas
 - Visualização de produtos
 - Criação de pedido de compra
