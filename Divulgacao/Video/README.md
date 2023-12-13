@@ -1,4 +1,4 @@
 # Divulgação: Vídeo do Projeto
 
-Nesta pasta inclua arquivos de vídeo produzidos para divulgação do projeto e seus resutados.
+O arquivo de vídeo .mp4 está dentro do arquivo .zip, que foi compactado para caber no github (ele era muito grande)
 
