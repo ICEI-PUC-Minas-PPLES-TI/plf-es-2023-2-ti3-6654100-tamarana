@@ -1,20 +1,20 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: "Sítio Tamarana"
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
-  - name-suffix: Professor
+  - family-names: Lincoln de Oliveira Gomes
+    given-names: Samuel
+  - family-names: Melo Ferreira
+    given-names: Camila
+  - family-names: Jardim Melo
+    given-names: Henrique
+  - family-names: Afonso Infante Vieira
+    given-names: Gabriel
+  - family-names: Fernandes de Souza
+    given-names: Vitor
+  - family-names: Rosenberg de Abreu
+    given-names: Bryan
+  - name-suffix: Eveline
     affiliation: PUC Minas
     family-names: 
     given-names: 
@@ -23,9 +23,11 @@ authors:
     family-names: 
     given-names: 
 keywords:
-  - 
-  - 
-repository-code: 
+  - "Fazenda"
+  - "Sítio"
+  - "Produtos"
+  - "Laticínios"
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti3-6654100-tamarana
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2022-07-14
