@@ -14,14 +14,18 @@ authors:
     given-names: Vitor
   - family-names: Rosenberg de Abreu
     given-names: Bryan
-  - name-suffix: Eveline
+  - name-suffix: Professora
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
+    family-names: Alonso Veloso
+    given-names: Eveline
+  - name-suffix: Professora
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Amaral Baroni de Carvalho
+    given-names: Juliana
+- name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: da Costa Silva
+    given-names: Luiz Henrique
 keywords:
   - "Fazenda"
   - "Sítio"
