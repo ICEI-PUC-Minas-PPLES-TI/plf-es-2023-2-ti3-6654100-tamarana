@@ -22,11 +22,11 @@ authors:
     affiliation: PUC Minas
     family-names: Amaral Baroni de Carvalho
     given-names: Juliana
-- name-suffix: Professor
+  - name-suffix: Professor
     affiliation: PUC Minas
     family-names: da Costa Silva
     given-names: Luiz Henrique
-keywords:
+    keywords:
   - "Fazenda"
   - "Sítio"
   - "Produtos"
